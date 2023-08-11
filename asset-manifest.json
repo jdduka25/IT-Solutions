@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/IT-Solutions/static/css/main.969fe8ef.css",
+    "main.js": "/IT-Solutions/static/js/main.6c2be217.js",
+    "static/media/coffeeph.png": "/IT-Solutions/static/media/coffeeph.30ea82fda8a0d2106c90.png",
+    "static/media/contact.png": "/IT-Solutions/static/media/contact.d404285bc9c6ac52ba06.png",
+    "static/media/yits-hero.png": "/IT-Solutions/static/media/yits-hero.8590316c1c81702f592a.png",
+    "static/media/seo-services.png": "/IT-Solutions/static/media/seo-services.08e2d0fcc0d4271fcd95.png",
+    "static/media/web-development.png": "/IT-Solutions/static/media/web-development.bd35df36e06b4b66d1b2.png",
+    "static/media/hosting-security.png": "/IT-Solutions/static/media/hosting-security.dc2e412aa398b4f1819e.png",
+    "static/media/photoshop.png": "/IT-Solutions/static/media/photoshop.acd32e6812c46831111f.png",
+    "static/media/laravel.png": "/IT-Solutions/static/media/laravel.f3ad6dc33fb0206ee8c2.png",
+    "static/media/postgres.png": "/IT-Solutions/static/media/postgres.f3f79b47259a37fb041c.png",
+    "static/media/docker.png": "/IT-Solutions/static/media/docker.dd3483b5107548eaa869.png",
+    "static/media/php.png": "/IT-Solutions/static/media/php.825b3dbee690ed00daab.png",
+    "static/media/reactjs.png": "/IT-Solutions/static/media/reactjs.f9c17b7ff895f5fb4426.png",
+    "static/media/dragonpay.jpg": "/IT-Solutions/static/media/dragonpay.afbbc3e3ae5f460ad552.jpg",
+    "static/media/wordpress.png": "/IT-Solutions/static/media/wordpress.0d42c1d7f00b2b622d94.png",
+    "static/media/sass.png": "/IT-Solutions/static/media/sass.adf3daa57535b41574ee.png",
+    "static/media/python.png": "/IT-Solutions/static/media/python.cf7d95d84a1cc484a913.png",
+    "static/media/it-solutions-logo.png": "/IT-Solutions/static/media/it-solutions-logo.084771ff0031d883449e.png",
+    "static/media/aws.png": "/IT-Solutions/static/media/aws.55971e8d0050a084cdfa.png",
+    "static/media/tailwind.png": "/IT-Solutions/static/media/tailwind.064f5607b1acfd92130f.png",
+    "static/media/gitlab.png": "/IT-Solutions/static/media/gitlab.4158bf146a60cd436493.png",
+    "static/media/shopify.png": "/IT-Solutions/static/media/shopify.1e72e870cf27e6e5ea8a.png",
+    "index.html": "/IT-Solutions/index.html",
+    "main.969fe8ef.css.map": "/IT-Solutions/static/css/main.969fe8ef.css.map",
+    "main.6c2be217.js.map": "/IT-Solutions/static/js/main.6c2be217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969fe8ef.css",
+    "static/js/main.6c2be217.js"
+  ]
+}
