@@ -1,0 +1,142 @@
+@media (min-width: 992px) {
+  .formBox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    height: 90%;
+    padding: 50px;
+    background-color: #ffffff;
+    border: 1px solid #333333;
+    border-radius: 25px;
+    z-index: 100;
+    overflow: hidden;
+  }
+
+  .formHeader {
+    overflow: hidden;
+  }
+
+  .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  label {
+    font-size: 20px;
+  }
+
+  input[type="text"],
+  input[type="tel"],
+  textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+}
+
+/* tablet css */
+@media (min-width: 577px) and (max-width: 991px) {
+  .formBox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    height: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #333333;
+    border-radius: 25px;
+    z-index: 100;
+    overflow: hidden;
+  }
+
+  .formHeader {
+    overflow: hidden;
+  }
+
+  .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  label {
+    font-size: 20px;
+  }
+
+  input[type="text"],
+  input[type="tel"],
+  textarea {
+    width: 100%;
+    padding: 8px 16px;
+    margin: 8px auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+}
+
+/* mobile css */
+@media (max-width: 576px) {
+  .formBox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #333333;
+    border-radius: 25px;
+    z-index: 100;
+    overflow: hidden;
+  }
+
+  .formHeader {
+    overflow: hidden;
+  }
+
+  .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  label {
+    font-size: 15px;
+  }
+
+  input[type="text"],
+  input[type="tel"],
+  textarea {
+    width: 100%;
+    padding: 4px 12px;
+    margin: 4px auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+}

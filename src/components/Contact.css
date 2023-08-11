@@ -1,0 +1,132 @@
+@media (min-width: 992px) {
+  .contact-container {
+    border-top: 1px solid #000000;
+  }
+
+  .contact {
+    margin-top: 50px;
+    height: 70vh;
+    width: auto;
+  }
+
+  .contact-heading {
+    overflow: hidden;
+  }
+
+  .contact-msg {
+    font-size: 25px;
+  }
+
+  .contactHeroImg {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+    overflow: hidden;
+  }
+
+  footer {
+    font-size: 25px;
+    text-align: center;
+    color: #9a9a9a;
+    margin-bottom: 25px;
+  }
+}
+
+/* tablet css */
+@media (min-width: 577px) and (max-width: 991px) {
+  .contact-container {
+    border-top: 1px solid #000000;
+  }
+
+  .contactHeroImg {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+  }
+
+  .contact {
+    margin-top: 20px;
+    height: auto;
+    width: 100%;
+  }
+
+  .contact-heading {
+    overflow: hidden;
+    font-size: 2.5rem;
+    width: 90%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .contact-msg {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: justify;
+  }
+
+  .contactButton {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    font-size: 20px;
+    padding: 15px;
+  }
+
+  footer {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #9a9a9a;
+  }
+}
+
+/* mobile css */
+@media (max-width: 576px) {
+  .contact-container {
+    border-top: 1px solid #000000;
+  }
+
+  .contactHeroImg {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+  }
+
+  .contact {
+    margin-top: 20px;
+    height: auto;
+    width: 100%;
+  }
+
+  .contact-heading {
+    overflow: hidden;
+    font-size: 1.5rem;
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+
+  .contact-msg {
+    font-size: 15px;
+    text-align: justify;
+  }
+
+  .contactButton {
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    font-size: 15px;
+    padding: 5px;
+  }
+
+  footer {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #9a9a9a;
+  }
+}
