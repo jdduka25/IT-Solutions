@@ -36,12 +36,16 @@
   input[type="tel"],
   textarea {
     width: 100%;
-    padding: 5px 5px;
+    padding: 4px 4px;
     margin: 8px auto;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+  }
+
+  .modalButton {
+    font-size: 18px;
   }
 }
 
@@ -91,6 +95,10 @@
     border-radius: 4px;
     box-sizing: border-box;
   }
+
+  .modalButton {
+    font-size: 15px;
+  }
 }
 
 /* mobile css */
@@ -138,5 +146,9 @@
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+  }
+
+  .modalButton {
+    font-size: 15px;
   }
 }

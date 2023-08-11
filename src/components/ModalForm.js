@@ -36,13 +36,13 @@ const ModalForm = (props) => {
           </div>
           <div className="btn-toolbar">
             <button
-              className="btn btn-light btn-lg mt-3"
+              className="modalButton btn btn-light btn-lg mt-1"
               onClick={props.closeForm}
             >
               Cancel
             </button>
             <button
-              className="btn btn-primary btn-lg mt-3 ms-auto"
+              className="modalButton btn btn-primary btn-lg mt-1 ms-auto"
               type="submit"
             >
               Submit
