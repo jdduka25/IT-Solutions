@@ -9,7 +9,7 @@ import webDevelopment from "./images/web-development.png";
 const Card = (props) => {
   return (
     <div className="container">
-      <h2 className="pb-lg-5 display-4">Our Services</h2>
+      <h2 className="pb-lg-5 display-5">Our Services</h2>
       <div className="row pb-5 card-container">
         <div className="card col-sm-12 col-md-6 col-lg-4">
           <img src={hostingSecurity} alt="Hosting Security" />

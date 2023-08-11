@@ -4,7 +4,14 @@
   }
 
   h3 {
+    text-align: center;
     overflow: hidden;
+  }
+
+  p {
+    font-size: 18px;
+    color: #444444;
+    text-align: justify;
   }
 
   .card {
@@ -22,8 +29,8 @@
   .quoteButton {
     display: block;
     margin: 0 auto;
-    width: 160px;
-    font-size: 20px;
+    width: 135px;
+    font-size: 18px;
   }
 }
 
@@ -33,6 +40,7 @@
     text-align: center;
     overflow: hidden;
     font-size: 2.5rem;
+    margin: 50px auto 20px;
   }
 
   h3 {
@@ -69,6 +77,7 @@
     text-align: center;
     overflow: hidden;
     font-size: 1.5rem;
+    margin-top: 50px;
   }
 
   h3 {

@@ -6,7 +6,7 @@ import logo from "./images/it-solutions-logo.png";
 
 const Navbar = () => {
   return (
-    <nav className="navigate navbar navbar-expand-lg sticky-top py-lg-0 mx-lg-5 my-lg-3">
+    <nav className="navigate navbar navbar-expand-lg py-lg-0 mx-lg-5">
       <div className="container-fluid navigate">
         <a className="navbar-brand py-0" href="#home">
           <img className="logostyle" src={logo} alt="IT Solutions Logo" />

@@ -6,11 +6,15 @@
 
   .heroHeading {
     overflow: hidden;
-    font-size: 3.5rem;
   }
 
   .offer {
-    font-size: 25px;
+    font-size: 20px;
+  }
+
+  .formButton {
+    width: 135px;
+    font-size: 18px;
   }
 }
 

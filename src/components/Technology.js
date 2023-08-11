@@ -26,7 +26,7 @@ import postgres from "./images/technology/postgres.png";
 const Technology = () => {
   return (
     <div className="tech-container">
-      <h2 className="display-4 pb-1">Technology we use</h2>
+      <h2 className="display-5 pb-1">Technology we use</h2>
       <p className="info">
         Cutting-edge technologies to create the perfect website
       </p>

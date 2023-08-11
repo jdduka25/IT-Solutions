@@ -11,14 +11,14 @@
   }
 
   .img-tech {
-    height: 120px;
+    height: 100px;
     width: auto;
-    margin: 50px;
+    margin: 40px;
   }
 
   .info {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     color: #9a9a9a;
   }
 }

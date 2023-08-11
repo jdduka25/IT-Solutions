@@ -6,20 +6,20 @@ import hero from "./images/yits-hero.png";
 
 const Hero = (props) => {
   return (
-    <div className="hero container-fluid col-xxl-8 px-4 py-5" id="about">
+    <div className="hero container-fluid col-xxl-8 px-4 py-2" id="about">
       <div className="row flex-lg-row-reverse align-items-center g-5 py-0">
         <div className="col-md-12 col-lg-6">
           <img
             src={hero}
             className="d-block mx-lg-auto img-fluid heroImg"
             alt="IT Hero"
-            width="800"
-            height="600"
+            width="700"
+            height="500"
             loading="lazy"
           />
         </div>
         <div className="col-md-12 col-lg-6 px-lg-5">
-          <h1 className="heroHeading display-lg-4 px-lg-5 fw-bold text-body-emphasis mb-3">
+          <h1 className="heroHeading display-6 px-lg-5 fw-bold text-body-emphasis mb-3">
             We don't just build websites,
             <br /> We build websites that sells!
           </h1>
@@ -30,7 +30,7 @@ const Hero = (props) => {
           </p>
           <button
             type="button"
-            className="formButton btn btn-primary btn-lg px-lg-5 mx-lg-5"
+            className="formButton btn btn-primary btn-lg mx-lg-5"
             onClick={props.openForm}
           >
             Get Started

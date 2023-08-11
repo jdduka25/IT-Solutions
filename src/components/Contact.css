@@ -14,7 +14,7 @@
   }
 
   .contact-msg {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   .contactHeroImg {
@@ -25,11 +25,16 @@
     overflow: hidden;
   }
 
+  .contactButton {
+    width: 135px;
+    font-size: 20px;
+  }
+
   footer {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     color: #9a9a9a;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
   }
 }
 
@@ -126,7 +131,7 @@
   footer {
     font-size: 15px;
     text-align: center;
-    margin-bottom: 20px;
+    margin: 30px auto 20px;
     color: #9a9a9a;
   }
 }

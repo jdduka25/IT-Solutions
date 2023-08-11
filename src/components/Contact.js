@@ -7,7 +7,7 @@ import contact from "./images/contact.png";
 const Contact = (props) => {
   return (
     <section className="contact-container" id="contact">
-      <div className="contact container-fluid col-xxl-8 px-4 py-5">
+      <div className="contact container-fluid col-xxl-8 px-4">
         <div className="row flex-lg-row-reverse align-items-center g-5 py-0">
           <div className="col-sm-12 col-lg-6">
             <img
@@ -20,7 +20,7 @@ const Contact = (props) => {
             />
           </div>
           <div className="col-sm-12 col-lg-6 px-lg-5">
-            <h4 className="contact-heading display-4 px-lg-5 fw-bold text-body-emphasis mb-3">
+            <h4 className="contact-heading display-6 px-lg-5 fw-bold text-body-emphasis mb-3">
               Let's talk about your plans!
             </h4>
             <p className="contact-msg lead px-lg-5">
@@ -30,7 +30,7 @@ const Contact = (props) => {
             </p>
             <button
               type="button"
-              className="contactButton btn btn-primary btn-lg px-lg-5 mx-lg-5"
+              className="contactButton btn btn-primary btn-lg mx-lg-5"
               onClick={props.openForm}
             >
               Contact Us
